@@ -1,6 +1,6 @@
 <h2>About Me <a href = "https://github.com//AliMousa27/"><img align = "right" alt="Github" src="https://img.shields.io/github/followers/AliMousa27?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a></h2>
 
-<img src="lol.gif" width="40%" align="right"/>
+<img src="lol.gif" width="35%" align="right"/>
 
 - I use Arch btw
 - Grass is out of the question
@@ -8,6 +8,7 @@
 - Masters in Computer Science
 - I like to code silly stuff and often tinker in my OS
 - I use Arch btw
+
 ## Stats
 
 <div align="left">
