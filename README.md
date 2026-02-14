@@ -13,7 +13,6 @@
 
 <div align="left">
  <img width="54%" src="https://github-readme-stats-fast.vercel.app/api?username=AliMousa27&show_icons=true&theme=dark&bg_color=00000000&include_all_commits=true" alt="alimousa27" />
-  
  <img align="left" width="41%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AliMousa27&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=5&bg_color=00000000" alt="alimousa27" />
 </div>
 
@@ -21,4 +20,13 @@
 <img src="https://skillicons.dev/icons?i=py,bash,c,cpp,js,ts,html,css&perline=10" alt="Tech Stack" /> 
 
 ## Tools and frameworks
-<img src="https://skillicons.dev/icons?i=docker,git,jenkins,react,vue,mysql,mongodb,nodejs,arch,kubernetes,latex,linux" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=docker,git,jenkins,react,vue,mysql,mongodb,nodejs,arch,kubernetes,latex,linux" alt="Tech Stack" />
+
+## Knowledgable in
+```Data strutures and algorithms``` ```Modern UI/UX``` ```Responsive web design``` ```Relational databases``` ```CI/CD``` ```Version control systems``` ```Agile and Scrum Methodologies```
+## Misc
+<div>
+  <img src="/metrics.plugin.music.recent.svg" alt="Metrics" width="49%" align="top" />
+  <img src="/metrics.plugin.steam.svg" alt="Metrics" width="49%" align="top" />
+</div>
+
