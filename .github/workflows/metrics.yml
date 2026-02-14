@@ -18,13 +18,13 @@ jobs:
         with:
           token: ${{ secrets.ACTION }}
           # here we have the various options
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Stockholm
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM }}
           plugin_steam: yes
-          plugin_steam_achievements_limit: 2
-          plugin_steam_games_limit: 1
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: itapz
+          plugin_steam_user: "0"
+          plugin_steam_sections: recently-played
+          plugin_steam_achievements_limit: 0
