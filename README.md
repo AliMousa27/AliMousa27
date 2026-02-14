@@ -1,15 +1,3 @@
-**_Feel free to contact me anytime_**
-
-You can reach me by my email ali0408mousa@gmail.com or via my socials
-<p align="left">
-<a href="https://linkedin.com/in/ali-mousa-59a440262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-mousa-59a440262" height="30" width="40" /></a>
-<a href="https://instagram.com/alial_musawi27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alial_musawi27" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bigman360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bigman360" height="30" width="40" /></a>
-<a href="https://discord.gg/joeopscallofmama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="joeopscallofmama" height="30" width="40" /></a>
-</p>
-
-
-
 <h2>About Me <a href = "https://github.com//AliMousa27/"><img align = "right" alt="Github" src="https://img.shields.io/github/followers/AliMousa27?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a></h2>
 
 <h4 align="center">Software engineer | Flutter developer  | Python enjoyer | Algorithms and math enthusiast</h4>
