@@ -1,13 +1,16 @@
 <h2>About Me <a href = "https://github.com//AliMousa27/"><img align = "right" alt="Github" src="https://img.shields.io/github/followers/AliMousa27?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a></h2>
 
- <ul>
-  <li>I use Arch btw</li>
-  <li>Grass is out of the question</li>
-  <li>Bachelors in Software engineering</li>
-  <li>Masters in Computer Science</li>
-  <li>I like to code silly stuff and often tinker in my OS</li>
-  <li>I use Arch btw</li>
-</ul> 
+<div style="display: flex;  justify-content: space-between;">
+  <ul>
+    <li>I use Arch btw</li>
+    <li>Grass is out of the question</li>
+    <li>Bachelors in Software engineering</li>
+    <li>Masters in Computer Science</li>
+    <li>I like to code silly stuff and often tinker in my OS</li>
+    <li>I use Arch btw</li>
+  </ul>
+  <img src="lol.gif" width="40%">
+</div>
 
 ## Stats
 
@@ -17,16 +20,20 @@
 </div>
 
 ## Languages I work with
-<img src="https://skillicons.dev/icons?i=py,bash,c,cpp,js,ts,html,css&perline=10" alt="Tech Stack" /> 
+
+<img src="https://skillicons.dev/icons?i=py,bash,c,cpp,js,ts,html,css&perline=10" alt="Tech Stack" />
 
 ## Tools and frameworks
+
 <img src="https://skillicons.dev/icons?i=docker,git,jenkins,react,vue,mysql,mongodb,nodejs,arch,kubernetes,latex,linux" alt="Tech Stack" />
 
 ## Knowledgable in
-```Data strutures and algorithms``` ```Modern UI/UX``` ```Responsive web design``` ```Relational databases``` ```CI/CD``` ```Version control systems``` ```Agile and Scrum Methodologies```
+
+`Data strutures and algorithms` `Modern UI/UX` `Responsive web design` `Relational databases` `CI/CD` `Version control systems` `Agile and Scrum Methodologies`
+
 ## Misc
+
 <div>
   <img src="/metrics.plugin.music.recent.svg" alt="Metrics" width="49%" align="top" />
   <img src="/metrics.plugin.steam.svg" alt="Metrics" width="49%" align="top" />
 </div>
-
