@@ -1,15 +1,15 @@
 <h2>About Me <a href = "https://github.com//AliMousa27/"><img align = "right" alt="Github" src="https://img.shields.io/github/followers/AliMousa27?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a></h2>
 
-<div style="display: flex;  justify-content: space-between;">
+<div style="display: flex;">
+    <img  hspace="8%" src="lol.gif" width="40%" align="right" border="1px solid red"/>
   <ul>
     <li>I use Arch btw</li>
     <li>Grass is out of the question</li>
-    <li>Bachelors in Software engineering</li>
+    <li>Bachelors in Software Engineering</li>
     <li>Masters in Computer Science</li>
     <li>I like to code silly stuff and often tinker in my OS</li>
     <li>I use Arch btw</li>
   </ul>
-  <img src="lol.gif" width="40%">
 </div>
 
 ## Stats
