@@ -1,8 +1,11 @@
 <h2>About Me <a href = "https://github.com//AliMousa27/"><img align = "right" alt="Github" src="https://img.shields.io/github/followers/AliMousa27?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a></h2>
 
-<h4 align="center">Software engineer | Flutter developer  | Python enjoyer | Algorithms and math enthusiast</h4>
-<p>I started my coding journey in 2020 when i decided to take on java as my first programming language, during my first year, I the fundementals concepts of programming and how to write efficent and clean code. I am currently enroled in the software engineering and management program at the university of Gothenburg, where I am about to wrap up my second year into the degree.</p>
-<p>My objective with coding and programming is to create solutions for problems people didnt know existed. I aim to make peoples lives easier by crafting easy to use solutions. I take constructive critism seriosuly and always aim to improve my skills at any given opportunity. The needs of the users come above all else, as a software product cannot exist without a userbase</p>
+ <ul>
+  <li>Grass is out of the question</li>
+  <li>Bachelors in Software engineering</li>
+  <li>Masters in Computer Science</li>
+  <li>I like to code silly stuff and often tinker in my OS</li>
+</ul> 
 
 <h2 align="left">My skills</h2>
 
