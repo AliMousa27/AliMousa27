@@ -14,7 +14,8 @@
  <img width="54%" src="https://github-readme-stats-fast.vercel.app/api?username=AliMousa27&show_icons=true&theme=dark&bg_color=00000000&include_all_commits=true" alt="alimousa27" />
  <img align="left" width="41%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AliMousa27&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=5&bg_color=00000000" alt="alimousa27" />
 </div>
-<br clear="left"/>
+
+<br/>
 
 ## Languages I work with
 
