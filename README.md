@@ -15,7 +15,7 @@
  <img align="left" width="41%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AliMousa27&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=5&bg_color=00000000" alt="alimousa27" />
 </div>
 
-<br/>
+<br left="clear"/>
 
 ## Languages I work with
 
