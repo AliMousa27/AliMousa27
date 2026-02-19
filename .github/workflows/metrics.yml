@@ -24,6 +24,7 @@ jobs:
           plugin_steam_user: "76561198256785048"
           plugin_steam_sections: recently-played
           plugin_steam_achievements_limit: 0
+          plugin_steam_recent_games_limit: 5
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.music.recent.svg
