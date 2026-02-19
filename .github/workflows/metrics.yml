@@ -22,7 +22,7 @@ jobs:
           plugin_steam_token: ${{ secrets.STEAM }}
           plugin_steam: yes
           plugin_steam_user: "76561198256785048"
-          plugin_steam_sections: recently-played
+          plugin_steam_sections: most-played
           plugin_steam_achievements_limit: 0
       - uses: lowlighter/metrics@latest
         with:
