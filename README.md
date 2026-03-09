@@ -1,6 +1,6 @@
 <h2>About Me <a href = "https://github.com//AliMousa27/"><img align = "right" alt="Github" src="https://img.shields.io/github/followers/AliMousa27?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a></h2>
 
-<img src="thumbs_up.gif" width="35%" align="right"/>
+<img src="thumbs_up.gif" width="30%" align="right"/>
 
 - I use Arch btw
 - Grass is out of the question
